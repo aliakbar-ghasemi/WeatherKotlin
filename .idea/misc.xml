@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/drawable/ic_calendar.xml" value="0.196" />
+        <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.293" />
         <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/layout/activity_main2.xml" value="0.18802083333333333" />
         <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/layout/fragment_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/menu/bottom_nav.xml" value="0.18697916666666667" />
+        <entry key="..\:/Work/Android/TestProject/WeatherKotlin/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18802083333333333" />
       </map>
     </option>
   </component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/currentWeatherFragment">
+
+    <fragment
+        android:id="@+id/currentWeatherFragment"
+        android:name="com.ghasemi.weatherkotlin.ui.home.HomeFragment"
+        android:label="@string/nav_title_current_weather"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/futureListWeatherFragment"
+        android:name="com.ghasemi.weatherkotlin.ui.dashboard.DashboardFragment"
+        android:label="@string/nav_title_future_list_weather"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.ghasemi.weatherkotlin.ui.notifications.NotificationsFragment"
+        android:label="@string/nav_title_settings"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>
